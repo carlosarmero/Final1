@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlos herrerra\\source\\repos\\Final1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86A29F0B-48B0-47DD-87AD-48B1090B030C}|Final1\\Final1.csproj|c:\\users\\carlos herrerra\\source\\repos\\final1\\final1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A29F0B-48B0-47DD-87AD-48B1090B030C}|Final1\\Final1.csproj|solutionrelative:final1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A29F0B-48B0-47DD-87AD-48B1090B030C}|Final1\\Final1.csproj|c:\\users\\carlos herrerra\\source\\repos\\final1\\final1\\helpers\\driverhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A29F0B-48B0-47DD-87AD-48B1090B030C}|Final1\\Final1.csproj|solutionrelative:final1\\helpers\\driverhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverHelper.cs",
+              "DocumentMoniker": "C:\\Users\\carlos herrerra\\source\\repos\\Final1\\Final1\\Helpers\\DriverHelper.cs",
+              "RelativeDocumentMoniker": "Final1\\Helpers\\DriverHelper.cs",
+              "ToolTip": "C:\\Users\\carlos herrerra\\source\\repos\\Final1\\Final1\\Helpers\\DriverHelper.cs",
+              "RelativeToolTip": "Final1\\Helpers\\DriverHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:54:54.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\carlos herrerra\\source\\repos\\Final1\\Final1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Final1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\carlos herrerra\\source\\repos\\Final1\\Final1\\UnitTest1.cs",
+              "RelativeToolTip": "Final1\\UnitTest1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwGQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:50:52.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
